@@ -1,3 +1,6 @@
+##Integrantes
+Antonio Ojeda, Daniel Idrovo
+
 # Taller 10 (Laboratorio):
 ## Construcción de programas usando arreglos bidimensionales
 
